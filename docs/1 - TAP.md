@@ -25,8 +25,6 @@
 
 ## Visão Geral do Projeto
 
-Texto aqui
-
 ### Descrição do Problema
 
 Texto aqui
