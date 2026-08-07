@@ -1,5 +1,7 @@
 # Orçamento
 
+Mande o **link público** da planilha de orçamento, e exporte em Markdown no formato a seguir:
+
 | **ID** | **Item ou Serviço** | **Tipo** | **Previsto** | **Realizado** | **Responsável** |
 |:------:|---------------------|----------|-------------:|--------------:|-----------------|
 | 1 | Madeira | Matéria-prima | R$ 0,50 | R$ 0,60 | Fulano |
