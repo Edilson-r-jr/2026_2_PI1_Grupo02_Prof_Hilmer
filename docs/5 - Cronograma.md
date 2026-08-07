@@ -1,6 +1,6 @@
 # Cronograma
 
-Exporte as informações do GitHub Projects [em formato CSV](https://docs.github.com/en/issues/planning-and-tracking-with-projects/managing-your-project/exporting-your-projects-data), e renderize em Markdown no formato a seguir:
+Exporte as informações do GitHub Projects [em formato CSV](https://docs.github.com/en/issues/planning-and-tracking-with-projects/managing-your-project/exporting-your-projects-data), e [renderize em Markdown](https://www.google.com/search?q=convert+CSV+file+to+Markdown+table) no formato a seguir:
 
 | **ID** | **Tarefa** | **Responsável** | **Predecessor** | **Data de Início** | **Data de Conclusão** | **% de Execução** | **Status** | **Prioridade** |
 |:------:|------------|-----------------|-----------------|--------------------|-----------------------|:-----------------:|-------------|----------------|
