@@ -4,9 +4,37 @@
 - **Data de Início:**
 - **Data de Término:**
 
-## Recursos do Projeto
+## Visão Geral do Projeto
 
-**Orientador:**
+### Descrição do Problema
+
+Insira o texto aqui
+
+### Objetivos
+
+Insira o texto aqui
+
+### Escopo do Projeto
+
+Insira o texto aqui
+
+### Premissas
+
+Insira o texto aqui
+
+### Orçamento estimado disponível (R$)
+
+Insira o texto aqui
+
+### Esforço Estimado (horas)
+
+Insira o texto aqui
+
+### Stakeholders
+
+Insira o texto aqui
+
+## Recursos do Projeto
 
 ### Membros da Equipe
 
@@ -23,32 +51,4 @@
 | | | | | |
 | | | | | |
 
-## Visão Geral do Projeto
-
-### Descrição do Problema
-
-Texto aqui
-
-### Objetivos
-
-Texto aqui
-
-### Escopo do Projeto
-
-Texto aqui
-
-### Premissas
-
-Texto aqui
-
-### Orçamento estimado disponível (R$)
-
-Texto aqui
-
-### Esforço Estimado (horas)
-
-Texto aqui
-
-### Stakeholders
-
-Texto aqui
+**Orientador:**
