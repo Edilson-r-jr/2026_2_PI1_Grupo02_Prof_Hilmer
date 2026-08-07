@@ -18,21 +18,9 @@ Insira o texto aqui
 
 Insira o texto aqui
 
-### Premissas
+### _Stakeholders_
 
-Insira o texto aqui
-
-### Orçamento estimado disponível (R$)
-
-Insira o texto aqui
-
-### Esforço Estimado (horas)
-
-Insira o texto aqui
-
-### Stakeholders
-
-Insira o texto aqui
+Insiram o texto aqui
 
 ## Recursos do Projeto
 
@@ -52,3 +40,11 @@ Insira o texto aqui
 | | | | | |
 
 **Orientador:**
+
+### Orçamento estimado (R$)
+
+Discutam dentro da equipe a verba possível disponível para o desenvolvimento do projeto, com base na complexidade do projeto, na quantidade de membros e na realidade de cada um.
+
+### Esforço estimado (horas)
+
+Estimem com sinceridade o tempo a ser despendido no desenvolvimento do projeto, com base na complexidade do projeto, na quantidade de membros e na realidade de cada um.
