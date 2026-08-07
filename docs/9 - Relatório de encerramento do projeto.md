@@ -2,20 +2,29 @@
 
 ## Resumo executivo
 
+Ofereçam uma visão rápida e clara do projeto desenvolvido. O leitor terá informações como: descrição breve do projeto, principais requisitos, tecnologias necessárias, resultados obtidos e outras informações relevantes para apresentação.
+
 ## Discussão de resultados
 
-### Liçõs aprendidas
+Esta seção documenta as lições aprendidas de modo a aperfeiçoar os processos e evitar que os erros e problemas encontrados se repitam em futuros projetos.
 
 ### Planejado x realizado
 
-Tabela:
-Objetivos
-Prazos
-Orçamento
-Escopo
+| **Item** | **Planejado** | **Realizado** |
+|:------:|-----------------|---------------|
+| Objetivos | | |
+| Prazos    | | |
+| Orçamento | | |
+| Escopo    | | |
 
 ### Recomendações para projetos futuros
 
+Insira o texto aqui
+
 ### Questões em aberto
 
-## Conclusão
+Insira o texto aqui
+
+## Conclusões
+
+Concluam o documento com um breve resumo da discussão de resultados.
