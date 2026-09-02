@@ -8,11 +8,11 @@ A organização e a correta utilização do repositório do projeto serão consi
 
 Lembrem sempre de evitar enviar arquivos muito grandes (>5MB). No caso de vídeos e outros arquivos pesados que são necessários, armazenar o arquivo em outra plataforma e colocar aqui apenas o _link_.
 
-> [!IMPORTANT]
+> [!IMPORTANTE]
 > A estrutura de pastas do projeto não reflete a divisão de equipes. Os membros podem e devem trabalhar nas diferentes pastas a depender da necessidade do projeto.
 
 ## Utilização
 
-1. Crie o repositório do projeto utilizando a nomenclatura padrão no formato: `<ano>.<semestre>_PI1_Grupo<n>_<professor>`. Como um exemplo, um nome formado corretamente seria `2026.2_PI1_Grupo1_Diogo`. 
+1. Crie o repositório do projeto utilizando a nomenclatura padrão no formato: `<ano>.<semestre>_PI1_Grupo<n>_<professor>`. Como um exemplo, um nome formado corretamente seria `2026.2_PI1_Grupo1_Diogo`. Para tanto, faça o fork do repositório template da disciplina: [repositório template](https://github.com/fcte-pi1/template/tree/main)
 
-2. Crie uma equipe do projeto com a mesma nomenclatura do repositório porém com o sufixo `_Equipe`, como `2026.2_PI1_Grupo1_Diogo_Equipe`, e solicite, caso necessário, que a equipe tenha permissão de escrita no repositório do projeto.
+2. Crie o projeto da equipe no Github-Projects a partir do template: [projeto template](https://github.com/orgs/fcte-pi1/projects/6). O do projeto deve utilizar a mesma nomenclaturado repositório.
