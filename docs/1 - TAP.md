@@ -26,11 +26,6 @@
 
 > Pessoas, empresas, instituições etc. que podem usufruir dos produtos, serviços e resultados gerados pelo projeto, cujos requisitos (tópico abaixo) devem atender as suas necessidades. Podem ser internas ou externas à organização, mas, merecem destaque especial, pois, o projeto está sendo feito para atendê-los de forma direta ou indireta.
 
-### Requisitos Gerais
-
-> Listar os requisitos essenciais para o projeto, definidos no plano de ensino. 
-
-> Os requisitos funcionais e não-funcionais devem ser descritos no arquivo [(`2 - Requisitos.md`)](https://github.com/fcte-pi1/template/blob/main/docs/2%20-%20Requisitos.md)
 ### Descrição do Problema
 
 > Informar o problema ou a oportunidade (necessidade) que justifica o porquê de o projeto ser realizado. Por exemplo: atende uma demanda específica do consumidor final; supre uma necessidade do mercado comercializador; é um diferencial X para o órgão regulamentador.

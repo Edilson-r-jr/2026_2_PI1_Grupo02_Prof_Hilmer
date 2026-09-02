@@ -7,13 +7,3 @@ A EAP representa a decomposição hierárquica do escopo total do trabalho a ser
 - A EAP não deve conter atividades.
 - Inserir a imagem da representação da EAP.
 
-> Exporte as informações [em formato CSV](https://docs.github.com/en/issues/planning-and-tracking-with-projects/managing-your-project/exporting-your-projects-data), e [renderize em Markdown](https://www.google.com/search?q=convert+CSV+file+to+Markdown+table) no formato a seguir:
-
-| **ID** | **Componente**         | **Descrição** | Link Github Projects 
-|:------:|------------------------|---------------|---------------------|
-|   1    | **Entrega 1**          | | |
-|  1.1   | Pacote de trabalho 1.1 | | |
-|  1.2   | Pacote de trabalho 1.2 | | |
-|   2    | **Entrega 2**          | | |
-|  2.1   | Pacote de trabalho 2.1 | | |
-|  2.2   | Pacote de trabalho 2.2 | | |

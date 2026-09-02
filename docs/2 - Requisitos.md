@@ -14,18 +14,18 @@ Já os requisitos relacionados com a segunda parte — "sob que restrições" �
 
 ## Requisitos Funcionais (RF)
 
-| **ID** | **Nome do Requisito** | **Descrição** | **Prioridade** | **Responsáveis** | **Link Githu Projects** |
-|:------:|------------------------|---------------|:--------------:|------------------|-------------------------|
-| 1 | | | |                  |                         |
-| 2 | | | |                  |                         |
-| 3 | | | |                  |                         |
-| 4 | | | |                  |                         |
-| 5 | | | |                  |                         |
-| 6 | | | |                  |                         |
-| 7 | | | |                  |                         |
-| 8 | | | |                  |                         |
-| 9 | | | |                  |                         |
-| 10 | | | |                  |                         |
+| **ID** | **Nome do Requisito** | **Descrição** | **Prioridade** | **Responsáveis** | **Link Github Projects** |
+|:------:|------------------------|---------------|:--------------:|------------------|--------------------------|
+| 1 | | | |                  |                          |
+| 2 | | | |                  |                          |
+| 3 | | | |                  |                          |
+| 4 | | | |                  |                          |
+| 5 | | | |                  |                          |
+| 6 | | | |                  |                          |
+| 7 | | | |                  |                          |
+| 8 | | | |                  |                          |
+| 9 | | | |                  |                          |
+| 10 | | | |                  |                          |
 
 ## Requisitos Não-Funcionais (RNF)
 
