@@ -1,34 +1,19 @@
-# Estrutura Analítica de Produto
+# Estrutura Analítica de Produto-EAP
 
-| **ID** | **Componente** | **Descrição** | **Dados Técnicos** | **Comentários** |
-|:------:|----------------|---------------|--------------------|-----------------|
-| 1 | **Sub-sistema: Estrutura** | | | |
-| 1.1 | Chassi | | | |
-| 1.2 | Suporte | | | |
-| 1.3 | Carenagem | | | |
-| 1.4 | Atuadores | | | |
-| 1.5 | Transmissão | | | |
-| 1.6 | Rodas/Hélices | | | |
-| 2 | **Sub-sistema: Fonte Energética** | | | |
-| 2.1 | Alimentação | | | |
-| 2.2 | Eletrônica de Potência | | | |
-| 2.3 | Proteções | | | |
-| 2.4 | Gerenciamento de Energia | | | |
-| 2.5 | | | | |
-| 2.6 | | | | |
-| 3 | **Sub-sistema: Hardware** | | | |
-| 3.1 | Processamento | | | |
-| 3.2 | Sensor 1 | | | |
-| 3.3 | Sensor 2 | | | |
-| 3.4 | Controle 1 | | | |
-| 3.5 | Controle 2 | | | |
-| 3.6 | Comunicação 1 | | | |
-| 3.7 | Comunicação 2 | | | |
-| 4 | **Sub-sistema: Software** | | | |
-| 4.1 | Controle | | | |
-| 4.2 | Navegação | | | |
-| 4.3 | Interface | | | |
-| 4.4 | Diagnóstico | | | |
-| 4.5 | | | | |
-| 4.6 | | | | |
-| 4.7 | | | | |
+A EAP representa a decomposição hierárquica do escopo total do trabalho a ser executado pela equipe do projeto a fim de alcançar os objetivos e criar entregas exigidas.
+
+- A EAP deve ser apresentada contemplando somente as entregas e pacotes de trabalho.
+- A EAP não deve ter associação as fases do projeto
+- A EAP não deve conter atividades.
+- Inserir a imagem da representação da EAP.
+
+> Exporte as informações [em formato CSV](https://docs.github.com/en/issues/planning-and-tracking-with-projects/managing-your-project/exporting-your-projects-data), e [renderize em Markdown](https://www.google.com/search?q=convert+CSV+file+to+Markdown+table) no formato a seguir:
+
+| **ID** | **Componente**         | **Descrição** | Link Github Projects 
+|:------:|------------------------|---------------|---------------------|
+|   1    | **Entrega 1**          | | |
+|  1.1   | Pacote de trabalho 1.1 | | |
+|  1.2   | Pacote de trabalho 1.2 | | |
+|   2    | **Entrega 2**          | | |
+|  2.1   | Pacote de trabalho 2.1 | | |
+|  2.2   | Pacote de trabalho 2.2 | | |
